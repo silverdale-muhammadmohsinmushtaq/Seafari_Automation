@@ -19,6 +19,11 @@ test.describe.serial('Odoo End-to-End QA', () => {
     
 	});
 
+	test('Verify the user can create "Company" Type contact', async () => {
+		await page.goto(process.env.SERVER_LINK);
+    
+	});
+
 	
 
 	
