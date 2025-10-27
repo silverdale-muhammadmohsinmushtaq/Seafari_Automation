@@ -1,0 +1,22 @@
+{
+  "name": "seafari_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverdale-muhammadmohsinmushtaq/Seafari_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silverdale-muhammadmohsinmushtaq/Seafari_Automation/issues"
+  },
+  "homepage": "https://github.com/silverdale-muhammadmohsinmushtaq/Seafari_Automation#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
