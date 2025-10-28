@@ -13,7 +13,7 @@ test.describe.serial('Odoo End-to-End QA', () => {
 		await page.getByRole('button', { name: 'User' }).waitFor();
 
 	});
-
+    //Veriy user can create and confirm sale quotation
 	test('Verify the user can create and confirm Sale Quotation', async () => {
 		// Navigate to Sales module
 		await page.goto(process.env.SERVER_LINK);
